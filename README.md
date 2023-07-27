@@ -1,1 +1,1 @@
-# Funcao
+# Função.
